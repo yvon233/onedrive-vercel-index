@@ -36,7 +36,7 @@ module.exports = {
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   // Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.
   footer:
-    '<img alt="PingPong uptime (last 30 days)" src="https://archive-1302959761.file.myqcloud.com/uptime.svg">',
+    '<img alt="uptime (last 30 days)" src="https://dl.owo.blue/api/raw/?path=/Private/uptime.svg&odpt=66f67eaabfc4c93923397cf22bf04975ff02893a7fb54e38e2568c7f0e9381c1">',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
